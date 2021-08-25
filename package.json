@@ -1,0 +1,22 @@
+{
+  "name": "mockrest",
+  "version": "1.0.0",
+  "description": "Mock Rest API for development/staging",
+  "main": "index.js",
+  "author": "Uğur Gülay <ugurgulay@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "casual": "^1.6.2",
+    "json-server": "^0.16.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-import": "^2.24.2",
+    "prettier": "^2.3.2"
+  }
+}

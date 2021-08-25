@@ -1,0 +1,23 @@
+{
+  "setting": [],
+  "page": [
+    {
+      "title": "Lorem ipsum",
+      "author": "ugurgulay",
+      "id": 1
+    }
+  ],
+  "order": [],
+  "basket": [],
+  "item": [],
+  "category": [],
+  "user": [
+    {
+      "id": 1,
+      "email": "john.doe@foo.bar",
+      "password": "123"
+    }
+  ],
+  "product": [],
+  "comment": []
+}
